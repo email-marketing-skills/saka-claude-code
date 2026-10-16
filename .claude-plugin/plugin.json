@@ -1,0 +1,14 @@
+{
+  "name": "saka",
+  "version": "0.1.0",
+  "description": "Saka business research and nine email marketing skills: free quotes, approved data purchases, lifecycle campaigns, and offline previews.",
+  "author": {
+    "name": "Email Marketing Skills",
+    "email": "david@sire.run"
+  },
+  "homepage": "https://saka.run/email-marketing-bot",
+  "repository": "https://github.com/email-marketing-skills/saka-claude-code",
+  "license": "Apache-2.0",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

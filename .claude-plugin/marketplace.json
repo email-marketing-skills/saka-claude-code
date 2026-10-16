@@ -1,0 +1,16 @@
+{
+  "name": "saka-plugins",
+  "owner": {
+    "name": "Email Marketing Skills"
+  },
+  "plugins": [
+    {
+      "name": "saka",
+      "source": "./",
+      "description": "Saka business research and nine email marketing skills: free quotes, approved data purchases, lifecycle campaigns, and offline previews."
+    }
+  ],
+  "metadata": {
+    "description": "Saka business research and email marketing skills."
+  }
+}

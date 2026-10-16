@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "saka": {
+      "type": "http",
+      "url": "https://saka.run/api/mcp"
+    },
+    "saka-library": {
+      "type": "http",
+      "url": "https://saka.run/api/library/mcp"
+    }
+  }
+}
